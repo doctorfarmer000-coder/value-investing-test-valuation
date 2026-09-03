@@ -2,3 +2,6 @@ interface:
   display_name: "质量增长与分红价值投资"
   short_description: "按行业生命周期评估质量、增长、分红、周期与五年回报"
   default_prompt: "使用 $quality-dividend-growth-investing 按V2框架分析这家公司的质量评级、增长持续性、分红安全和五年总回报。"
+
+policy:
+  allow_implicit_invocation: true
